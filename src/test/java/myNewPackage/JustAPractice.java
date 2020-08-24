@@ -6,5 +6,8 @@ public class JustAPractice {
 		System.out.println("Just practicing !!!");
 		
 		System.out.println("prctice 2 from mac");
+		
+		//latest code 
+		// master has been changed 
 	}
 }
